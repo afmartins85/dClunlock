@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+    <qresource prefix="/pages">
+        <file>pages/PageUnlockForm.ui.qml</file>
+        <file>pages/PageUnlock.qml</file>
+        <file>pages/main.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/logo.png</file>
+        <file>images/logo_default.png</file>
+    </qresource>
+</RCC>
